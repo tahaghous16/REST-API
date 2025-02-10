@@ -1,0 +1,122 @@
+[
+  {
+    "name": "iPhone 15 Pro",
+    "price": 1199,
+    "featured": true,
+    "rating": 4.9,
+    "createdAt": "2024-02-06T12:00:00.000Z",
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra",
+    "price": 1299,
+    "featured": false,
+    "rating": 4.8,
+    "createdAt": "2024-02-05T15:30:00.000Z",
+    "company": "samsung"
+  },
+  {
+    "name": "iPhone 14",
+    "price": 999,
+    "featured": false,
+    "rating": 4.7,
+    "createdAt": "2024-01-20T10:15:00.000Z",
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Galaxy Z Flip 5",
+    "price": 1099,
+    "featured": true,
+    "rating": 4.6,
+    "createdAt": "2024-01-10T18:00:00.000Z",
+    "company": "samsung"
+  },
+  {
+    "name": "iPhone SE 2023",
+    "price": 499,
+    "featured": false,
+    "rating": 4.5,
+    "createdAt": "2024-01-01T12:45:00.000Z",
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Galaxy A54",
+    "price": 449,
+    "featured": false,
+    "rating": 4.3,
+    "createdAt": "2023-12-28T09:30:00.000Z",
+    "company": "samsung"
+  },
+  {
+    "name": "iPhone",
+    "price": 1099,
+    "featured": true,
+    "rating": 4.9,
+    "createdAt": "2023-12-15T14:20:00.000Z",
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Galaxy S22",
+    "price": 899,
+    "featured": false,
+    "rating": 4.7,
+    "createdAt": "2023-12-05T20:00:00.000Z",
+    "company": "samsung"
+  },
+  {
+    "name": "iPhone 12 Mini",
+    "price": 599,
+    "featured": false,
+    "rating": 4.4,
+    "createdAt": "2023-11-30T16:45:00.000Z",
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Galaxy Note 20",
+    "price": 999,
+    "featured": true,
+    "rating": 4.8,
+    "createdAt": "2023-11-20T08:30:00.000Z",
+    "company": "samsung"
+  },
+  {
+    "name": "iPhone XR",
+    "price": 399,
+    "featured": false,
+    "rating": 4.2,
+    "createdAt": "2023-11-10T11:10:00.000Z",
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Galaxy S21 FE",
+    "price": 749,
+    "featured": false,
+    "rating": 4.5,
+    "createdAt": "2023-10-30T13:40:00.000Z",
+    "company": "samsung"
+  },
+  {
+    "name": "iPhone 11",
+    "price": 499,
+    "featured": false,
+    "rating": 4.3,
+    "createdAt": "2023-10-15T17:00:00.000Z",
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Galaxy A34",
+    "price": 399,
+    "featured": false,
+    "rating": 4.1,
+    "createdAt": "2023-10-05T19:20:00.000Z",
+    "company": "samsung"
+  },
+  {
+    "name": "iPhone X",
+    "price": 349,
+    "featured": false,
+    "rating": 4.0,
+    "createdAt": "2023-09-25T14:10:00.000Z",
+    "company": "apple"
+  }
+]
